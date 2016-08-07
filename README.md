@@ -8,5 +8,4 @@
 
 `brew list`
 
-
 2. [setup cask](https://caskroom.github.io) _or ez way copy paste in Terminal:_ `brew tap caskroom/cask`
