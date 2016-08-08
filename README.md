@@ -30,3 +30,18 @@
 6. **where we left off waiting for Malik** Install Bower bower homepage [click to read about](https://bower.io/)
 
  * `npm install -g bower`
+
+7. create a `HTML` page
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+  
+  </body>
+</html>
+```
