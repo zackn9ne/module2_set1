@@ -45,3 +45,7 @@
   </body>
 </html>
 ```
+
+# Common Keystrokes
+
+[click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
