@@ -22,3 +22,7 @@
 4. Install Node
 
  * `brew install node`
+
+5. Install NPM
+
+ * `sudo npm install npm -g`
