@@ -46,6 +46,16 @@
 </html>
 ```
 
+8. Directory Sturcture as Follows
+
+```
+.
+├── css
+│   └── style.css
+├── index.html
+└── js
+    └── app.js
+```
 # Common Keystrokes
 
 [click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
