@@ -13,8 +13,12 @@
  * `brew list`
 
 2. [cask homepage](https://caskroom.github.io) _or ez way copy  
- * paste in Terminal:_ `brew tap caskroom/cask`
+ * paste in Terminal: `brew tap caskroom/cask`
 
-3. Install NPM
+3. Install Sublime
+
+ * `brew cask install sublime-text`
+
+4. Install Node
 
  * `brew install node`
