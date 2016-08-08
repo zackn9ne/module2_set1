@@ -12,7 +12,7 @@
 
  * `brew list`
 
-2. [setup cask](https://caskroom.github.io) _or ez way copy  
+2. [cask homepage](https://caskroom.github.io) _or ez way copy  
  * paste in Terminal:_ `brew tap caskroom/cask`
 
 3. Install NPM
