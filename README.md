@@ -15,4 +15,4 @@
 
 3. Install NPM
 
-`brew install node`
+ * `brew install node`
