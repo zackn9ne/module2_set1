@@ -27,6 +27,7 @@
 5. Install NPM
 
  * `sudo npm install npm -g`
+ * `npm -v`
  
 6. Install Bower bower homepage [click to read about](https://bower.io/)
 
