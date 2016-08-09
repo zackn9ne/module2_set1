@@ -48,7 +48,7 @@
 </html>
 ```
 
-8. Directory Sturcture as Follows
+# How to Wire Up A Basic Web App
 
 ```
 .
