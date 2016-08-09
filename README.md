@@ -1,3 +1,4 @@
+_day one_
 # Module 2 MacBook Setup
 
 1. [brew homepage](http://brew.sh/)
@@ -48,7 +49,7 @@
 </html>
 ```
 
-8. Directory Sturcture as Follows
+# How to Wire Up A Basic Web App
 
 ```
 .
@@ -61,3 +62,16 @@
 # Common Keystrokes
 
 [click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
+
+---
+
+_day two_
+
+
+# Homework
+
+- Create a webpage that accpets a value in an `INPUT` `HTML5` tag and has it show up in the `DOM`
+- Know how to `bower install jquery` and `src` that `jquery.min.js`
+- **Hint:** instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
+- **EC:** put your project into a `GitHub` repo of your own
+- _R U SRS?_ Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you feel like in your `HTML` file 
