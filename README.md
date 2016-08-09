@@ -22,6 +22,7 @@
 4. Install Node
 
  * `brew install node`
+ * `node -v`
 
 5. Install NPM
 
