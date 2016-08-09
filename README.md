@@ -73,6 +73,7 @@ _day two_
 - Use the code in `/first_general_ex` as a starting point (or the version you are following along with) and build on that code
 - Create a webpage that accpets a value in an `INPUT` `HTML5` tag and has it show up in the `DOM`
 - Know how to `bower install jquery` and `src` that `jquery.min.js`
+- **Hint:** There is lots of code in there already you just have to make it work.
 - **Hint:** instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
 - **EC:** put your project into a `GitHub` repo of your own
 - _R U SRS?_ Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you feel like in your `HTML` file 
