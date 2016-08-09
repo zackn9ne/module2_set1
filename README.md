@@ -28,7 +28,7 @@
 
  * `sudo npm install npm -g`
  
-6. **where we left off waiting for Malik** Install Bower bower homepage [click to read about](https://bower.io/)
+6. Install Bower bower homepage [click to read about](https://bower.io/)
 
  * `npm install -g bower`
 
