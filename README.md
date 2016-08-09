@@ -72,4 +72,4 @@ _day two_
 
 - Create a webpage that accpets a value in an `INPUT` `HTML5` tag and has it show up in the `DOM`
 - Know how to `bower install jquery` and `src` that `jquery.min.js`
-- **Hint** instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
+- **Hint:** instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
