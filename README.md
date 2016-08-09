@@ -78,4 +78,4 @@ _day two_
 - **EC:** put your project into a `GitHub` repo of your own
 - **_R U SRS?_** 
 - <img src="http://orig04.deviantart.net/1ac6/f/2012/226/3/c/crogunk___r_u_srs___vector_by_rocan64-d5b1f49.png" width="200">
-- Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you feel like in your `HTML` file 
+- Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you `DOM ELEMENT` like in your `HTML` file 
