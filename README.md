@@ -63,6 +63,13 @@ _day one_
 
 [click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
 
+---
+
 _day two_
 
-# Common Keystrokes
+
+# Homework
+
+- Create a webpage that accpets a value in an `INPUT` `HTML5` tag and has it show up in the `DOM`
+- Know how to `bower install jquery` and `src` that `jquery.min.js`
+- *hint* instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
