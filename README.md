@@ -77,5 +77,5 @@ _day two_
 - **Hint:** instead of just `console.log` the result, be familiar with `http://api.jquery.com/append/` & `http://api.jquery.com/appendTo/`
 - **EC:** put your project into a `GitHub` repo of your own
 - **_R U SRS?_** 
-- ![](http://orig04.deviantart.net/1ac6/f/2012/226/3/c/crogunk___r_u_srs___vector_by_rocan64-d5b1f49.png =250x)
+- <img src="http://orig04.deviantart.net/1ac6/f/2012/226/3/c/crogunk___r_u_srs___vector_by_rocan64-d5b1f49.png" width="200">
 - Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you feel like in your `HTML` file 
