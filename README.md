@@ -63,6 +63,6 @@ _day one_
 
 [click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
 
-_day two
+_day two_
 
 # Common Keystrokes
