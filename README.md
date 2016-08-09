@@ -1,3 +1,4 @@
+_day one_
 # Module 2 MacBook Setup
 
 1. [brew homepage](http://brew.sh/)
@@ -61,3 +62,7 @@
 # Common Keystrokes
 
 [click here for my OSX Keystroke Guide Repo](https://github.com/zackn9ne/OSX-Commands-Cheat-Sheet)
+
+_day two
+
+# Common Keystrokes
