@@ -87,4 +87,7 @@ _day three_
 
 # CSS Color Names
 - 147 Colors Website `http://www.colors.commutercreative.com/` you _may_ want to bookmark this 
-- 
+- page 250 in book
+- `pixlr.com`
+- <kbd>⌘</kbd>+<kbd>space</kbd>+<kbd>Digital Color Meter</kbd> Digital Color Meter **OSX ONLY**
+
