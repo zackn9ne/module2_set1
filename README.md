@@ -91,3 +91,7 @@ _day three_
 - `pixlr.com`
 - <kbd>⌘</kbd>+<kbd>space</kbd>+<kbd>Digital Color Meter</kbd> Digital Color Meter **OSX ONLY**
 
+# HTML Layout Refresher
+- <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>H</kbd> Go To Home
+- `http://stackoverflow.com/questions/134727/whats-the-key-difference-between-html-4-and-html-5`
+- Chapter 13 Box Model
