@@ -8,7 +8,7 @@ say("app.js was just hit");
 
 
 
-window.onload = function() {  //document ready in JQ
+window.onload = function() {  //wait to DOM is ready document ready in JQ
 
 // var firstltem=document.getElementById('someclass'); //II Get the first item
 // firstltem.className = 'complete '; //II Change its class attribute
@@ -48,7 +48,7 @@ for (i = 0; i < cars.length; i++) {
 
 }
 
-} //end DR
+} //end js on load
 
 
 
@@ -57,7 +57,7 @@ for (i = 0; i < cars.length; i++) {
 
 
 
-$(function() {
+$(function() { //drf
 
 	var lolz = $('#lolz');
 	var kk = $('#kk');
@@ -71,7 +71,14 @@ $(function() {
 		// $( ".userinput" ).html( lolzval );
 	})
 
-});
+	            
+    
+    window.say_what = function () { 
+            console.log("say what");
+    }
+
+
+}); //drf
 
 
 
