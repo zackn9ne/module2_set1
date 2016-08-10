@@ -79,3 +79,12 @@ _day two_
 - **_R U SRS?_** 
 - <img src="http://orig04.deviantart.net/1ac6/f/2012/226/3/c/crogunk___r_u_srs___vector_by_rocan64-d5b1f49.png" width="200">
 - Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you `DOM ELEMENT` like in your `HTML` file 
+- **Good Video About jQuery and Chaining** `https://www.youtube.com/watch?v=hMxGhHNOkCU`
+
+---
+
+_day three_
+
+# CSS Color Names
+- 147 Colors Website `http://www.colors.commutercreative.com/` you _may_ want to bookmark this 
+- 
