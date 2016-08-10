@@ -104,3 +104,10 @@ _day three_
 - `.fadeIn()` `http://api.jquery.com/fadein/`
 - `.append()`
 - `.click` `https://api.jquery.com/click/`
+
+# New Homework
+- page 304
+- use colors from what you learned today _look up if you forgot I took notes for you guys_
+- use this `screen mockup` as help 
+- 
+- don't worry about bootstrap yet (it dosen't really apply for this exercise)
