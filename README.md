@@ -97,3 +97,4 @@ _day three_
 - <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>H</kbd> Go To Home
 - `http://stackoverflow.com/questions/134727/whats-the-key-difference-between-html-4-and-html-5`
 - Chapter 13 Box Model
+- Block Elements versus Inline Elements `https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements`
