@@ -109,5 +109,5 @@ _day three_
 - page 304
 - use colors from what you learned today _look up if you forgot I took notes for you guys_
 - use this `screen mockup` as help 
-- 
+- <img src="https://raw.githubusercontent.com/zackn9ne/module2_set1/master/bin/Screen%20Shot%202016-08-10%20at%201.png">
 - don't worry about bootstrap yet (it dosen't really apply for this exercise)
