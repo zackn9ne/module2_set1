@@ -6,9 +6,9 @@ say("app.js was just hit");
 
 
 
-$( document ).ready(function() {
 
-// window.onload = function() {  //document ready in JQ
+
+window.onload = function() {  //document ready in JQ
 
 // var firstltem=document.getElementById('someclass'); //II Get the first item
 // firstltem.className = 'complete '; //II Change its class attribute
@@ -48,6 +48,7 @@ for (i = 0; i < cars.length; i++) {
 
 }
 
+} //end DR
 
 
 
@@ -56,19 +57,22 @@ for (i = 0; i < cars.length; i++) {
 
 
 
+$(function() {
 
+	var lolz = $('#lolz');
+	var kk = $('#kk');
 
-var lolz = $('#lolz');
-var kk = $('#kk');
-var lolzval = lolz.val
+	kk.click(function() {
+	  	// alert(lolz.val());
+		var lolzval = lolz.val() // must be in func
+		console.log("this getting in dom:" + lolzval);
+		
+		$( ".userinput" ).html( lolzval );
+		// $( ".userinput" ).html( lolzval );
+	})
 
-kk.click(function() {
-  alert(lolz.val());
-
-$( lolzval ).appendTo( ".userinput" );
 });
 
 
-// } //end DR
 
-}); //end jq
+
