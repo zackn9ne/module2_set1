@@ -98,3 +98,9 @@ _day three_
 - `http://stackoverflow.com/questions/134727/whats-the-key-difference-between-html-4-and-html-5`
 - Chapter 13 Box Model
 - Block Elements versus Inline Elements `https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements`
+
+# Homework Overview
+- Malik used these methods
+- `.fadeIn()` `http://api.jquery.com/fadein/`
+- `.append()`
+- `.click` `https://api.jquery.com/click/`
