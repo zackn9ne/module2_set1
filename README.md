@@ -90,6 +90,8 @@ _day three_
 - page 250 in book
 - `pixlr.com`
 - <kbd>⌘</kbd>+<kbd>space</kbd>+<kbd>Digital Color Meter</kbd> Digital Color Meter **OSX ONLY**
+- CSS Galleries for _inspiration_ `http://www.cssmania.com/`
+- Adobe Kuler for color themes `http://www.cssmania.com/`
 
 # HTML Layout Refresher
 - <kbd>⌘</kbd>+<kbd>shift</kbd>+<kbd>H</kbd> Go To Home
