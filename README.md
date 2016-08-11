@@ -111,3 +111,12 @@ _day three_
 - use this `screen mockup` as help 
 - <img src="https://raw.githubusercontent.com/zackn9ne/module2_set1/master/bin/Screen%20Shot%202016-08-10%20at%201.png">
 - don't worry about bootstrap yet (it dosen't really apply for this exercise)
+
+---
+
+_day four_
+
+#video html5
+
+- `https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats`
+
