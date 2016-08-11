@@ -138,3 +138,4 @@ _day four_
 - use a colorful `h1` with a cool font in order to name your mixtape below the tape graphic
 - `embed` five youtube videos in the mixtape section
 - add a `Sound FX` Section **below** that and be able to play 2 sounds for fun in order to play pranks on people while talking on the phone
+- add a `final video` that you embed usign `HTML5 video` tags, and **be sure to add a preload**
