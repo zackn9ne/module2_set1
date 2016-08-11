@@ -119,4 +119,14 @@ _day four_
 #video html5
 
 - `https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats`
+- 
+```
+<video preload="auto" controls loop >
+	<source 
+	poster="http://www.gohobby.com/wp-content/uploads/2013/07/Ferrari-Testarossa.jpg" width="400" height="300" 
+	
+	src="http://techslides.com/demos/sample-videos/small.ogv" 
+	/>
+</video>
+```
 
