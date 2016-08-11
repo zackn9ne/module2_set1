@@ -131,3 +131,10 @@ _day four_
 </video>
 ```
 
+#homework day four
+
+- use what you learned to day to make yourself a mixtape
+- use a cool "tape" graphic and `center it` above the top of your webpage
+- use a colorful `h1` with a cool font in order to name your mixtape below the tape graphic
+- `embed` five youtube videos in the mixtape section
+- add a `Sound FX` Section **below** that and be able to play 2 sounds for fun in order to play pranks on people while talking on the phone
