@@ -139,3 +139,14 @@ _day four_
 - `embed` five youtube videos in the mixtape section
 - add a `Sound FX` Section **below** that and be able to play 2 sounds for fun in order to play pranks on people while talking on the phone
 - add a `final video` that you embed usign `HTML5 video` tags, and **be sure to add a preload**
+
+
+#javascript refocus points
+
+_google these_ Define them in a new 'Sublime Text' document called JavaScript_notes.txt. **Copy paste the URL from the web page in which you found the answer**
+
+1. JavaScript Data Types
+2. Objects
+3. JQuery get/set add/remove 
+
+Submit this document to me like it's a book report and go over each thing. Don't forget your **URL** sources. 
