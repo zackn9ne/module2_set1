@@ -158,3 +158,10 @@ Submit this document to me like it's a book report and go over each thing. Don't
 PS1='\[`[ $? = 0 ] && X=2 || X=1; tput setaf $X`\]\h\[`tput sgr0`\]:$PWD\n\$ '
 ```
 
+#displaying with images and center alining them
+```
+<figure style="text-align: center;">
+  <img src="img_pulpit.jpg" alt="The Pulpit Rock" width="304" height="228">
+<figcaption style="margin: auto; max-width: 304px; text-align: left;">cliffs are mad crazy</figcaption>
+</figure>
+```
