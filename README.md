@@ -155,6 +155,10 @@ Submit this document to me like it's a book report and go over each thing. Don't
 
 _day five_
 
+#make a new GitHub Repo and initilize it with a readme.MD
+
+- `http://dillinger.io/`
+
 #show path in BASH Prompt
 `touch ~/.bash_profile`
 
