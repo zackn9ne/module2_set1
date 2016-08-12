@@ -150,3 +150,8 @@ _google these_ Define them in a new 'Sublime Text' document called JavaScript_no
 3. JQuery get/set add/remove 
 
 Submit this document to me like it's a book report and go over each thing. Don't forget your **URL** sources. 
+
+#show path in BASH Prompt
+`touch ~/.bash_profile`
+`PS1='\[`[ $? = 0 ] && X=2 || X=1; tput setaf $X`\]\h\[`tput sgr0`\]:$PWD\n\$ '`
+
