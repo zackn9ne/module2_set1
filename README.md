@@ -151,6 +151,10 @@ _google these_ Define them in a new 'Sublime Text' document called JavaScript_no
 
 Submit this document to me like it's a book report and go over each thing. Don't forget your **URL** sources. 
 
+---
+
+_day five_
+
 #show path in BASH Prompt
 `touch ~/.bash_profile`
 
@@ -165,3 +169,7 @@ PS1='\[`[ $? = 0 ] && X=2 || X=1; tput setaf $X`\]\h\[`tput sgr0`\]:$PWD\n\$ '
 <figcaption style="margin: auto; max-width: 304px; text-align: left;">cliffs are mad crazy</figcaption>
 </figure>
 ```
+
+#video on how to use Sublime
+
+- `https://www.youtube.com/watch?v=SVkR1ZkNusI&feature=youtu.be&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK`
