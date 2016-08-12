@@ -140,8 +140,16 @@ _day four_
 - add a `Sound FX` Section **below** that and be able to play 2 sounds for fun in order to play pranks on people while talking on the phone
 - add a `final video` that you embed usign `HTML5 video` tags, and **be sure to add a preload**
 
+#javascript refocus points _basic_
+_google these_ Define them in a new 'Sublime Text' document called JavaScript_notes.txt. **Copy paste the URL from the web page in which you found the answer**
 
-#javascript refocus points
+1. Write me a paragraph on what a function is/does. What problems do they solve.
+2. Write me what a variable is, a paragraph. And what it's used for.
+3. Write me what an array is and what it's used for.
+
+- _Include a bibliography_ (formatting does not matter, just a list of the URL's you found that helped you make your answers)
+
+#javascript refocus points _advanced_
 
 _google these_ Define them in a new 'Sublime Text' document called JavaScript_notes.txt. **Copy paste the URL from the web page in which you found the answer**
 
