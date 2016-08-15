@@ -210,7 +210,10 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
-`https://robots.thoughtbot.com/transitions-and-transforms`
+# Transition vs Transform
+
+- Remember transition is more about the way the element looks as it is changing, transform is very much changing that element's `scaling`, `rotating`, etc. See this link.
+- `https://robots.thoughtbot.com/transitions-and-transforms`
 
 # Easing examples
 
