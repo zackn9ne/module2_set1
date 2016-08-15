@@ -189,3 +189,11 @@ _google these_ Define them in a new 'Sublime Text' document called JavaScript_no
 3. JQuery get/set add/remove 
 
 Submit this document to me like it's a book report and go over each thing. Don't forget your **URL** sources. 
+
+---
+
+_day six_
+
+# CSS Text Shadow
+
+-https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
