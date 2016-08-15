@@ -194,8 +194,13 @@ Submit this document to me like it's a book report and go over each thing. Don't
 
 _day six_
 
+`optional Literature`
+
+https://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947
+
 # CSS Text Shadow
 
 -https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
 -https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 -https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+-https://developer.mozilla.org/en-US/docs/Web/CSS/transition
