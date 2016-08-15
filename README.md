@@ -200,13 +200,12 @@ https://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947
 
 # CSS Text Shadow
 
--https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
--https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
--https://developer.mozilla.org/en-US/docs/Web/CSS/transform
--https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+- https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+- https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+- https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+- https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
 # Easing examples
 
--https://css-tricks.com/clever-uses-step-easing/
-
--https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay
+- https://css-tricks.com/clever-uses-step-easing/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay
