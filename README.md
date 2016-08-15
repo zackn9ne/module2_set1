@@ -223,3 +223,9 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 # CSS Extreeme FX
 
 - https://uk.protectyourbubble.com/iphone-timeline/
+
+# Homework
+- refactor your mixtape webpage to include the following
+1. CSS Transform and transition on the actual `mixtape` graphic, _hint:_ see thoguhtbot link above
+2. Add a `css text-shadow` somewhere on the page
+3. Add a `css gradient` somewhere on the page
