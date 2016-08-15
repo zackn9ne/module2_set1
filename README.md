@@ -208,4 +208,5 @@ https://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947
 # Easing examples
 
 -https://css-tricks.com/clever-uses-step-easing/
+
 -https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay
