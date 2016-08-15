@@ -210,6 +210,8 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
+`https://robots.thoughtbot.com/transitions-and-transforms`
+
 # Easing examples
 
 - https://css-tricks.com/clever-uses-step-easing/
