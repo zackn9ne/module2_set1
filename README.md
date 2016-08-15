@@ -198,9 +198,13 @@ _day six_
 
 https://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947
 
+
 # CSS Text Shadow
 
 -https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+
 -https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+
 -https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+
 -https://developer.mozilla.org/en-US/docs/Web/CSS/transition
