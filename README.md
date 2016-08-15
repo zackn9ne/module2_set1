@@ -203,7 +203,8 @@ https://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947
 - https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
 - https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transform
-- ```
+
+```
 transformChanges an element in one or more ways including scaling, rotating, skewing, or moving the element. Requires vendor prefixes and doesn’t work in IE 8 or earlier.
 ```
 
