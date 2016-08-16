@@ -273,3 +273,4 @@ var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
 - page 83 in the `JS Book`, do the `index.html` and the `app.js`
 - use `.length`
 - use an `anonymous function` as well for something I don't care what.
+- put a `JS Comment` somewhere in the `code`, use both the `//` style and the `block comment` called `/* comment this */` so that you can prove you know the ways
