@@ -236,3 +236,7 @@ _day seven_
 1. `npm install -g jshint`
 2. JSHint `https://packagecontrol.io/packages/JSHint`
 3. Package control `https://packagecontrol.io/installation#ST3`
+
+# Do Some JS, Operators
+- `%` Modulous Operator
+- `===` vs `==`
