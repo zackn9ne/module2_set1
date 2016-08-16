@@ -271,3 +271,5 @@ var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
 
 # Homework
 - page 83 in the `JS Book`, do the `index.html` and the `app.js`
+- use `.length`
+- use an `anonymous function` as well for something I don't care what.
