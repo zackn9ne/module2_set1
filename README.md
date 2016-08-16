@@ -266,5 +266,8 @@ function size(w, h, d) {
 var sixFloorSqf = size(3,3)[0]  //[0]to get sqf 6f
 var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
 ```
-# Anonymous function video (Indian)
-- https://www.youtube.com/watch?v=LI-0ilvrvYk
+# Anonymous function video
+- https://www.youtube.com/watch?v=LI-0ilvrvYk _(Indian)_
+
+# Homework
+- page 83 in the `JS Book`, do the `index.html` and the `app.js`
