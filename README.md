@@ -240,3 +240,4 @@ _day seven_
 # Do Some JS, Operators
 - `%` Modulous Operator
 - `===` vs `==`
+- Isralei video life michael `https://www.youtube.com/watch?v=n1-MCFsIwXQ`
