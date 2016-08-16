@@ -252,3 +252,17 @@ _day seven_
 
 # JS getElementBy _and crew_
 - `http://www.w3schools.com/jsref/prop_node_textcontent.asp`
+
+# Complex Arrays
+```
+// complex functions pg 95
+function size(w, h, d) {
+  var sqf = w * h;
+  var vol = w * h * d;
+  var chooseYourAdventure = [sqf, vol]
+  return chooseYourAdventure;
+}
+
+var sixFloorSqf = size(3,3)[0]  //[0]to get sqf 6f
+var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
+```
