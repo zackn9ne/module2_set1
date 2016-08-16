@@ -249,3 +249,6 @@ _day seven_
 
 # Do Some Arrays
 - `https://www.youtube.com/watch?v=lP1uBtfssC0`
+
+# JS getElementBy _and crew_
+- `http://www.w3schools.com/jsref/prop_node_textcontent.asp`
