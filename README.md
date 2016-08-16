@@ -241,3 +241,6 @@ _day seven_
 - `%` Modulous Operator
 - `===` vs `==`
 - Isralei video life michael `https://www.youtube.com/watch?v=n1-MCFsIwXQ`
+
+# Do Some Arrays
+- `https://www.youtube.com/watch?v=lP1uBtfssC0`
