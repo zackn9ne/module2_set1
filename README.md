@@ -229,3 +229,10 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 1. CSS Transform and transition on the actual `mixtape` graphic, _hint:_ see thoguhtbot link above
 2. Add a `css text-shadow` somewhere on the page
 3. Add a `css gradient` somewhere on the page
+
+_day seven_
+
+# Setup Sublime Some More
+1. `npm install -g jshint`
+2. JSHint `https://packagecontrol.io/packages/JSHint`
+3. Package control `https://packagecontrol.io/installation#ST3`
