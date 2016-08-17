@@ -303,3 +303,6 @@ passwordHolder();
 alert(foo);
 alert(bar);
 ```
+
+# Awesome Closures Video
+- https://www.youtube.com/watch?v=yiEeiMN2Khs
