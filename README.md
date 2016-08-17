@@ -319,3 +319,13 @@ alert(bar);
 - Number Methods
     - aka pg. 132
     - http://www.w3schools.com/js/js_number_methods.asp
+
+---
+_day nine_
+
+# Bubbling v Capturing
+- Whats this `.addEventListener('click', myfunction, false)` what does the `false` mean
+- `http://www.w3schools.com/js/js_htmldom_eventlistener.asp`
+- Default is Bubbling, it bubbles up from Child to Parent
+- Default is false
+- Swap it to `true` to use `Capturing` aka `useCapture` aka `true` to switch to `Capturing Mode`, meaning the `parent elemet` will harness the activity first
