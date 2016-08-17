@@ -230,7 +230,7 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 2. Add a `css text-shadow` somewhere on the page
 3. Add a `css gradient` somewhere on the page
 
-_day eight_
+_day seven_
 
 # Setup Sublime Some More
 1. `npm install -g jshint`
@@ -277,7 +277,7 @@ var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
 
 ---
 
-_day seven_
+_day eight_
 
 # Variable Scope
 - http://stackoverflow.com/questions/1470488/what-is-the-purpose-of-the-var-keyword-and-when-to-use-it-or-omit-it
