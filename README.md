@@ -324,7 +324,7 @@ alert(bar);
 _day nine_
 
 # Bubbling v Capturing
-- Whats this `.addEventListener('click', myfunction, false)` what does the `false` mean
+- Whats this `.addEventListener(type handler phase)` what does the `false` mean (in phase)?
 - `http://www.w3schools.com/js/js_htmldom_eventlistener.asp`
 - Default is Bubbling, it bubbles up from Child to Parent
 - Default is false
