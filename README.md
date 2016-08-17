@@ -309,11 +309,13 @@ alert(bar);
 
 # HW
 - String Methods
--- http://www.w3schools.com/js/js_string_methods.asp
-- -aka pg. 135
+    - http://www.w3schools.com/js/js_string_methods.asp
+    - aka pg. 135
 
-- Write your *own* version of a **Event Listener** pg. 263, try to do (1) without with `The Event Object` and (2) one dealing with `The Event Object`, _hint_ think `variable e`
+- Write your *own* version of a **Event Listener** pg. 263, try to do 
+    - (1) without with `The Event Object` and 
+    - (2) one dealing with `The Event Object`, _hint_ think `variable e`
 
 - Number Methods
--- aka pg. 132
--- http://www.w3schools.com/js/js_number_methods.asp
+    - aka pg. 132
+    - http://www.w3schools.com/js/js_number_methods.asp
