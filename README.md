@@ -230,7 +230,7 @@ transformChanges an element in one or more ways including scaling, rotating, ske
 2. Add a `css text-shadow` somewhere on the page
 3. Add a `css gradient` somewhere on the page
 
-_day seven_
+_day eight_
 
 # Setup Sublime Some More
 1. `npm install -g jshint`
