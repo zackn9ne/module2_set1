@@ -78,6 +78,130 @@ $(function() { //drf
     }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+    var whoAreYou = 'Stephanie';
+    var greetTues = 'Hello \';lsdiflkjdits\' Tuesday and you are: ' + 'Ms. ' + 'whoAreYou'
+
+        // document.write(greetTues);
+    var favourite = " favourite number is: "; 
+    var calculateIt = 3+5;
+
+    // trying ++
+    plain = 10;
+    plain++;
+    // var more = plain++;
+
+    // document.write(" We are incrementing " + " NOW, we are putting a ++ to make it: " + plain );
+
+
+
+
+
+
+
+
+
+
+
+
+
+// anonymous function
+    var a = (function(){
+    	var width = 3
+    	var height = 2
+    	return width * height + greetTues;
+
+    }());
+    console.log(a);
+
+
+
+
+
+
+
+
+
+
+
+// complex functions pg 95
+function size(w, h, d) {
+  var sqf = w * h;
+  var vol = w * h * d;
+  var chooseYourAdventure = [sqf, vol]
+  return chooseYourAdventure;
+}
+
+var sixFloorSqf = size(3,3)[0]  //[0]to get sqf 6f
+var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
+
+
+
+
+
+
+
+
+
+
+//getter and setter textContent
+var text = document.getElementsByClassName("accept")[0].textContent = "This is some text";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// var name = 'Molly';
+name = 'Molly';
+
+
+function greetUser() {
+    return 'Hello ' + getName();
+}
+
+function getName() {
+    // var name = 'Molly';
+
+    // name = 'Molly';
+    return name;
+}
+
+
+var greeting = greetUser();
+// document.write(greeting);
+document.write(name);
+
+
+
+
+
+
+
+
+
+
 }); //drf
 
 
