@@ -274,3 +274,10 @@ var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
 - use `.length`
 - use an `anonymous function` as well for something I don't care what.
 - put a `JS Comment` somewhere in the `code`, use both the `//` style and the `block comment` called `/* comment this */` so that you can prove you know the ways
+
+---
+
+_day seven_
+
+# Variable Scope
+- http://stackoverflow.com/questions/1470488/what-is-the-purpose-of-the-var-keyword-and-when-to-use-it-or-omit-it
