@@ -330,4 +330,4 @@ _day nine_
 - Default is false
 - Swap it to `true` to use `Capturing` aka `useCapture` aka `true` to switch to `Capturing Mode`, meaning the `parent elemet` will harness the activity first
 
-- How to stop: event.stopPropagation() [mdn](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
+- How to stop: event.stopPropagation() [MDN Link](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
