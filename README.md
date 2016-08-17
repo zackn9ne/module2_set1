@@ -281,3 +281,25 @@ _day eight_
 
 # Variable Scope
 - http://stackoverflow.com/questions/1470488/what-is-the-purpose-of-the-var-keyword-and-when-to-use-it-or-omit-it
+
+```
+var foo = 1;
+bar = 2;
+
+var passwordHolder = function()
+{
+    var foo = "password123"; // Local
+    bar = "coco";     // Global
+
+    // Execute an anonymous function
+    (function()
+    {
+        var wibble = 1; // Local
+        var foo = 266; // Inherits from scope above (creating a closure)
+        moo = 300; // Global
+    }())
+}
+passwordHolder();
+alert(foo);
+alert(bar);
+```
