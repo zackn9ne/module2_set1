@@ -306,3 +306,8 @@ alert(bar);
 
 # Awesome Closures Video
 - https://www.youtube.com/watch?v=yiEeiMN2Khs
+
+# HW
+- http://www.w3schools.com/js/js_string_methods.asp
+- aka pg. 135
+- Write your *own* version of a **Event Listener** pg. 263, try to do (1) without with `The Event Object` and (2) one dealing with `The Event Object`, _hint_ think `variable e`
