@@ -339,6 +339,8 @@ _day nine_
     - the latter gets `hoisted` and will run fine, the former will return `not a func` most likely if called before it is used
 
 # HW Review of `addEventListener` _basic_
+- go here to study `http://www.w3schools.com/jsref/met_element_addeventlistener.asp`
+
 ```
 <!DOCTYPE html>
 <html>
