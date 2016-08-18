@@ -331,3 +331,9 @@ _day nine_
 - Swap it to `true` to use `Capturing` aka `useCapture` aka `true` to switch to `Capturing Mode`, meaning the `parent elemet` will harness the activity first
 
 - How to stop: event.stopPropagation() [MDN Link](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
+
+# Hoisting
+- Awesome hoisting video: `https://m.youtube.com/watch?v=WqXeFiii9k0`
+- Function Expressions vs Functions
+    - `var myFunc = function() { /*do stuff...` vs `function myFunc() { /*do stuff...`
+    - the latter gets `hoisted` and will run fine, the former will return `not a func` most likely if called before it is used
