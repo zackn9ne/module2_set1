@@ -395,3 +395,10 @@ bt.addEventListener("click", checkWhatClicked, false);
 </body>
 </html>
 ```
+
+# HW Assignment
+- `139` in the `JS Book`
+- What you're going to do is make a function that caluclates your current age in years.
+- If this was _super_ easy for you go ahead and do some differnt **variations** of it to show your `age` in `hours` or `seconds`
+- You may have to `Google` for these formulas
+- Remember how we talked about phrasing questions to google in the `correct context`
