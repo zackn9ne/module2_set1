@@ -338,7 +338,32 @@ _day nine_
     - `var myFunc = function() { /*do stuff...` vs `function myFunc() { /*do stuff...`
     - the latter gets `hoisted` and will run fine, the former will return `not a func` most likely if called before it is used
 
-# HW Reveiw of addEventListener
+# HW Review of `addEventListener` _basic_
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This example uses the addEventListener() method to attach a click event to a button.</p>
+
+<button id="myBtn">Try it</button>
+
+<p><strong>Note:</strong> The addEventListener() method is not supported in Internet Explorer 8 and earlier versions.</p>
+
+<p id="demo"></p>
+
+<script>
+var doStuff = function(){
+    document.getElementById("demo").innerHTML = "Hello World";
+}
+document.getElementById("myBtn").addEventListener("click", doStuff, false );
+</script>
+
+</body>
+</html>
+
+```
+# HW Reveiw of `addEventListener` _advanced_
 ```
 <!DOCTYPE html>
 <html>
