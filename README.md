@@ -340,6 +340,8 @@ _day nine_
 
 # HW Review of `addEventListener` _basic_
 - go here to study `http://www.w3schools.com/jsref/met_element_addeventlistener.asp`
+- click on `Try it yourself >>`
+- be comfortable changing things in there remember its `vanilla JS`
 
 ```
 <!DOCTYPE html>
