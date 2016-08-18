@@ -337,3 +337,34 @@ _day nine_
 - Function Expressions vs Functions
     - `var myFunc = function() { /*do stuff...` vs `function myFunc() { /*do stuff...`
     - the latter gets `hoisted` and will run fine, the former will return `not a func` most likely if called before it is used
+
+# HW Reveiw of addEventListener
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="foo">This example uses the addEventListener() method to attach a click event to a button.</p>
+
+<button id="myBtn">Try it</button>
+
+<script>
+var bt = document.getElementById("myBtn");
+var foo = document.getElementById("foo");
+
+function checkWhatClicked(e) {
+  var target = e.target; //get target of event
+//  foo.innerHTML = "eee";
+  foo.innerHTML = target;
+}
+
+function helloWorld(){
+    foo.innerHTML ="Hello World!";
+}
+
+bt.addEventListener("click", checkWhatClicked, false);
+</script>
+
+</body>
+</html>
+```
