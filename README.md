@@ -424,3 +424,11 @@ gangsterRap.forEach(function(singleRapper) {
 
 - Recognize _all_ the `Array Methods` available to study `http://www.w3schools.com/jsref/jsref_obj_array.asp`
 - **pro tip** `JS Reserved Words` `http://www.w3schools.com/js/js_reserved.asp`, don't name your `variables` these or you will be confused
+
+# Homework
+- use JS `filter() method`
+- use `page 537` at the bottom
+- use the `.length` in order to set your filters just like _they_ did on `page 537` at the bottom
+    - they used `conditionals` here FYI such as `>=` and `<=` we _breezed_ over these in class but go ahead and study them if you don't get what is going on
+- learn as much as you can about the JS `filter() method`
+- put **your own** spin on this, I want to see interesting variables and not just junk copied from the book
