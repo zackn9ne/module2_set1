@@ -423,3 +423,4 @@ gangsterRap.forEach(function(singleRapper) {
 - JS `filter();` Method, `bottom of page 537`
 
 - Recognize _all_ the `Array Methods` available to study `http://www.w3schools.com/jsref/jsref_obj_array.asp`
+- **pro tip** `JS Reserved Words` `http://www.w3schools.com/js/js_reserved.asp`, don't name your `variables` these or you will be confused
