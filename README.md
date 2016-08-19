@@ -413,3 +413,10 @@ _day ten_
 # overview
 - `objects`, `JSON API` Example `http://anilist-api.readthedocs.io/en/latest/anime.html#basic`
 - `JS forEach(); Method` Spec'ed from: `http://www.w3schools.com/jsref/jsref_forEach.asp`
+```
+var gangsterRap = [ "ice cube", "easy e", "dr. dre", "vanilla ice", "ice tea", "ice lattee" ]
+
+gangsterRap.forEach(function(singleRapper) {
+    document.write("<li>" + singleRapper + " is rad as hell a juicy *#$&#! from the middle of a cell</li>");
+});
+```
