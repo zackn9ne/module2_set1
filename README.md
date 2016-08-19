@@ -408,3 +408,4 @@ bt.addEventListener("click", checkWhatClicked, false);
 ---
 _day ten_
 - Array Methods 'http://www.w3schools.com/jsref/jsref_obj_array.asp'
+- [sort filter video](https://egghead.io/lessons/javascript-javascript-array-methods-in-depth-filter)
