@@ -407,5 +407,8 @@ bt.addEventListener("click", checkWhatClicked, false);
 
 ---
 _day ten_
-- Array Methods 'http://www.w3schools.com/jsref/jsref_obj_array.asp'
+- Array Methods _tons of 'em_ `http://www.w3schools.com/jsref/jsref_obj_array.asp`
 - [sort filter video](https://egghead.io/lessons/javascript-javascript-array-methods-in-depth-filter)
+
+# overview
+- `objects`, `JSON API` Example `http://anilist-api.readthedocs.io/en/latest/anime.html#basic`
