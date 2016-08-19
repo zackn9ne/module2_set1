@@ -404,3 +404,7 @@ bt.addEventListener("click", checkWhatClicked, false);
 - If this was _super_ easy for you go ahead and do some differnt **variations** of it to show your `age` in `hours` or `seconds`
 - You may have to `Google` for these formulas
 - Remember how we talked about phrasing questions to google in the `correct context`
+
+---
+_day ten_
+- Array Methods 'http://www.w3schools.com/jsref/jsref_obj_array.asp'
