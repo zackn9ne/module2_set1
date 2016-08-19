@@ -420,3 +420,4 @@ gangsterRap.forEach(function(singleRapper) {
     document.write("<li>" + singleRapper + " is rad as hell a juicy *#$&#! from the middle of a cell</li>");
 });
 ```
+- JS `filter();` Method, `bottom of page 537`
