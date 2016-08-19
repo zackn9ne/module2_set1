@@ -422,4 +422,4 @@ gangsterRap.forEach(function(singleRapper) {
 ```
 - JS `filter();` Method, `bottom of page 537`
 
-- Recognize _all_ the `Array Methods` available to study `http://www.w3schools.com/js/js_array_methods.asp`
+- Recognize _all_ the `Array Methods` available to study `http://www.w3schools.com/jsref/jsref_obj_array.asp`
