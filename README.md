@@ -412,3 +412,4 @@ _day ten_
 
 # overview
 - `objects`, `JSON API` Example `http://anilist-api.readthedocs.io/en/latest/anime.html#basic`
+- `JS forEach(); Method` Spec'ed from: `http://www.w3schools.com/jsref/jsref_forEach.asp`
