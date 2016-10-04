@@ -432,3 +432,7 @@ gangsterRap.forEach(function(singleRapper) {
     - they used `conditionals` here FYI such as `>=` and `<=` we _breezed_ over these in class but go ahead and study them if you don't get what is going on
 - learn as much as you can about the JS `filter() method`
 - put **your own** spin on this, I want to see interesting variables and not just junk copied from the book
+
+_day 11_
+
+- http://www.cssmatic.com/box-shadow
