@@ -433,6 +433,3 @@ gangsterRap.forEach(function(singleRapper) {
 - learn as much as you can about the JS `filter() method`
 - put **your own** spin on this, I want to see interesting variables and not just junk copied from the book
 
-_day 11_
-
-- http://www.cssmatic.com/box-shadow
