@@ -99,6 +99,8 @@ _day three_
 - Chapter 13 Box Model
 - Block Elements versus Inline Elements `https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements`
 
+# API Review
+- http://rest.learncode.academy/api/johnbob/friends
 <!---
 
 # Homework Overview
