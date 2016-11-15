@@ -107,7 +107,9 @@
 
 #video html5
 
-- `https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats`
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats
+
+- sample code
 
 
 ```
