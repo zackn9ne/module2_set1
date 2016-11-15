@@ -99,6 +99,8 @@ _day three_
 - Chapter 13 Box Model
 - Block Elements versus Inline Elements `https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements`
 
+<!---
+
 # Homework Overview
 - Malik used these methods
 - `.fadeIn()` `http://api.jquery.com/fadein/`
@@ -433,3 +435,4 @@ gangsterRap.forEach(function(singleRapper) {
 - learn as much as you can about the JS `filter() method`
 - put **your own** spin on this, I want to see interesting variables and not just junk copied from the book
 
+-->
