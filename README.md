@@ -102,22 +102,7 @@ _day three_
 # API Review
 - http://rest.learncode.academy/api/johnbob/friends
 
-<!---
 
-# Homework Overview
-- Malik used these methods
-- `.fadeIn()` `http://api.jquery.com/fadein/`
-- `.append()`
-- `.click` `https://api.jquery.com/click/`
-
-# New Homework
-- page 304
-- use colors from what you learned today _look up if you forgot I took notes for you guys_
-- use this `screen mockup` as help 
-- <img src="https://raw.githubusercontent.com/zackn9ne/module2_set1/master/bin/Screen%20Shot%202016-08-10%20at%201.png">
-- don't worry about bootstrap yet (it dosen't really apply for this exercise)
-
----
 
 _day four_
 
@@ -146,8 +131,8 @@ _day four_
 - add a `final video` that you embed usign `HTML5 video` tags, and **be sure to add a preload**
 
 
+<!---
 
----
 
 _day five_
 
