@@ -120,6 +120,10 @@
 </video>
 ```
 
+
+<!---
+
+
 #homework day four
 
 - use what you learned to day to make yourself a mixtape
@@ -130,7 +134,7 @@
 - add a `final video` that you embed usign `HTML5 video` tags, and **be sure to add a preload**
 
 
-<!---
+
 
 
 _day five_
