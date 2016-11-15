@@ -1,4 +1,4 @@
-_day one_
+# day one
 # Module 2 MacBook Setup
 
 1. [brew homepage](http://brew.sh/)
@@ -65,7 +65,7 @@ _day one_
 
 ---
 
-_day two_
+# day two
 
 
 # Homework
@@ -81,9 +81,8 @@ _day two_
 - Ok, this can be tricky so if you're stuck go ahead and just use an `jQuery` `.appendTo()` to _append_ to whatever you `DOM ELEMENT` like in your `HTML` file 
 - **Good Video About jQuery and Chaining** `https://www.youtube.com/watch?v=hMxGhHNOkCU`
 
----
 
-_day three_
+# day three
 
 # CSS Color Names
 - 147 Colors Website `http://www.colors.commutercreative.com/` you _may_ want to bookmark this 
@@ -104,7 +103,7 @@ _day three_
 
 
 
-_day four_
+# day four
 
 #video html5
 
