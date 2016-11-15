@@ -109,18 +109,25 @@
 
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats
 
-- sample code
+- sample code from: http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video: 
 
 
 ```
-<video preload="auto" controls loop >
-	<source 
-	poster="http://www.gohobby.com/wp-content/uploads/2013/07/Ferrari-Testarossa.jpg" width="400" height="300" 
-	
-	src="http://techslides.com/demos/sample-videos/small.ogv" 
-	/>
+<video playsinline autoplay muted loop poster="polina.jpg" id="bgvid">
+    <source src="polina.webm" type="video/webm">
+    <source src="polina.mp4" type="video/mp4">
 </video>
+
 ```
+
+
+
+
+
+
+
+
+
 
 
 <!---
