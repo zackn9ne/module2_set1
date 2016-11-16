@@ -133,19 +133,15 @@ Remember transition is more about the way the element looks as it is changing, t
 Back to Basics
 
 - Texts, Shadows, Gradient, Colors, Fonts
-- https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
-- https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 
-- Easing examples
-
-- https://css-tricks.com/clever-uses-step-easing/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transition-delay
+- Try some of these in class assignment:
+https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-paste/
 
 - CSS Extreeme FX
 
-- https://uk.protectyourbubble.com/iphone-timeline/
-
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transition
+https://uk.protectyourbubble.com/iphone-timeline/
 
 
 # day six
