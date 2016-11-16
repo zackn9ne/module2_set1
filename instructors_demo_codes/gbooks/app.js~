@@ -1,0 +1,15 @@
+ document.addEventListener("DOMContentLoaded", function(event) {
+    console.log("DOM fully loaded and parsed");
+
+
+      var typedInfo = document.getElementById("search");
+
+      
+            document.getElementById("go").addEventListener("click", myScript);
+      
+      var myScript = function(){
+        console.log("clicked");
+      }
+      
+      myScript();
+});

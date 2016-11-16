@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Books API Example</title>
+  </head>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="app.js"></script>
+
+  <body>
+    <div id="content">
+      <p>Search: <input id="search" type="text" name="name">
+        <button id="go">go</button>
+      </p>    
+    </div>
+
+
+<script src="https://www.googleapis.com/books/v1/volumes?q=harry+potter&callback=handleResponse"></script>
+
+  </body>
+</html>
