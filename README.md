@@ -112,29 +112,29 @@ Module 2 MacBook Setup
 
 # day five
 
-- Texts, Shadows, Gradient, Colors, Fonts
-- 2D and 3D transforms
-- Transitions
-re: LAB 4: Styling your media presentation on a site
 
-CSS Reference, text-shadow, box-shadow, 2D ~~3D~~ transform, transition, ~~animation~~
+Motion
 
-- https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
-- https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+- 2D and 3D transforms: Think Pixar
 
 ```
 CSS transforms: Changes an element in one or more ways including scaling, rotating, skewing, or moving the element. Requires vendor prefixes and doesn’t work in IE 8 or earlier.
 ```
 
-- https://developer.mozilla.org/en-US/docs/Web/CSS/transition
-
-- Transition vs Transform
+- Transitions: Think in real life sublte div changes
 
 - Transitions are actually used IRL: http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
 
-- Remember transition is more about the way the element looks as it is changing, transform is very much changing that element's `scaling`, `rotating`, etc. See this link.
-- `https://robots.thoughtbot.com/transitions-and-transforms`
+- Take away:
+
+Remember transition is more about the way the element looks as it is changing, transform is very much changing that element's `scaling`, `rotating`, etc. See this link. https://robots.thoughtbot.com/transitions-and-transforms
+
+
+Back to Basics
+
+- Texts, Shadows, Gradient, Colors, Fonts
+- https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+- https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
 
 - Easing examples
 
@@ -144,10 +144,6 @@ CSS transforms: Changes an element in one or more ways including scaling, rotati
 - CSS Extreeme FX
 
 - https://uk.protectyourbubble.com/iphone-timeline/
-
-```
-transformChanges an element in one or more ways including scaling, rotating, skewing, or moving the element. Requires vendor prefixes and doesn’t work in IE 8 or earlier.
-```
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
