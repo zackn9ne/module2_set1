@@ -131,6 +131,8 @@ CSS transforms: Changes an element in one or more ways including scaling, rotati
 
 - Transition vs Transform
 
+- Transitions are actually used IRL: http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/
+
 - Remember transition is more about the way the element looks as it is changing, transform is very much changing that element's `scaling`, `rotating`, etc. See this link.
 - `https://robots.thoughtbot.com/transitions-and-transforms`
 
