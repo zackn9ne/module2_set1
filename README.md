@@ -150,7 +150,30 @@ https://uk.protectyourbubble.com/iphone-timeline/
 - Comments, Variables, Operators
 re: LAB 5: Intermediate JavaScript assignment – using comments
 
+# day 7
 
+- making a form and validating with function
+
+```
+$( "button" ).on( "click", validate );
+
+function validate(){
+  
+  var thing = $( "input" ).val();
+
+    console.log(thing);
+
+    if (isNaN(thing)) {
+      $( "div" ).append("chea error nice try");
+      $( "body" ).prepend("stop");
+    }  else {
+      console.log("valid"); 
+      $( "div" ).append("nice job you chose " + thing);
+
+      
+    }
+}
+```
 
 
 
