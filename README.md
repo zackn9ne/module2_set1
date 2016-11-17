@@ -175,6 +175,9 @@ function validate(){
 }
 ```
 
+- migrate the code out of codepen
+
+- get browsersync running: `browser-sync start --server --directory --files "*"`
 
 
 
