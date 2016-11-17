@@ -10,7 +10,6 @@
   <body>
     <input type="text">
     <button>Do things</button>
-    <div><p>this is the notifications div, watch here for info</p></div>
+    <div></div>
   </body>
 </html>
-
