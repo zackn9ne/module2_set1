@@ -154,6 +154,248 @@ re: LAB 5: Intermediate JavaScript assignment – using comments
 
 - making a form and validating with function
 
+# day 8 
+
+- form input and validation for prime/natural/etc/Nan
+
+# day 9
+
+- date methods
+- objects review
+
+# day 10
+
+- Chapter 4, Duckett Book
+- Decisions & Loops (and case statements)
+- Comparison Operators
+- Logical && and Logical Not and Logical Or
+- If
+- Else if
+- Case/Switch statements
+- For Loop
+- While Loop
+- For While Loop
+- Some form validation
+- Code dump from this day, you can figure the `HTML` out yourself:
+
+```
+//apply css via JS
+var rc = document.getElementById("resultcontainer");
+function colorize(){
+  rc.style.background="lightblue";
+}
+
+// object overview basic
+var bmw = {
+  maker     : 'Bwm',
+  built     : 'Germany',
+  year      : 1998,
+  engineCyl : 6
+}
+
+console.log(bmw.built);
+
+
+
+
+
+
+// constructor notation pg 106
+var auto = new Object();
+
+auto.name = 'Fiat';
+auto.built = 'Italia';
+auto.year = 2008;
+auto.engineCyl = 4;
+auto.sunroof = false;
+delete auto.sunroof;
+
+console.log(auto.sunroof);
+
+
+
+
+
+
+
+
+
+
+//setup the (object) constructor function
+function CarMaker(name, built, color) {
+  this.name = name;
+  this.built = built;
+  this.color = color;
+}
+
+
+
+
+
+
+
+
+
+//function which makes a new object
+var blueBenz = new CarMaker("benz", 2004, "blue");
+var redCamaro = new CarMaker("camaro", 2009, "red");
+
+console.log(blueBenz.color);
+console.log(redCamaro.color);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// page 46
+var b = document.getElementById("click");
+b.addEventListener("click", getTimeFromNet);
+function getTimeFromNet (){
+  var d = new Date(); 
+  console.log(d.getHours()+":"+d.getMinutes()+":"+d.getSeconds());
+}
+
+
+
+
+
+
+
+
+// maths from eloquent
+console.log(typeof true);
+console.log(typeof 0);
+console.log(typeof Infinity);
+console.log(typeof NaN);
+console.log(typeof "asdf");
+console.log(typeof -340349.3);
+
+
+
+
+
+
+
+// bools
+console.log( 100 <= 100 );
+console.log( "alphabet" > "google" );
+
+
+console.log( false && false );
+console.log( "alphabet" && "axlphabet" );
+
+// terniary op TMFR
+console . log ( true ? "radical" : 2) ;
+console . log ( false ? "radical" : 2) ;
+
+
+
+// PLAY BUTTON |>
+var queryButton = document.getElementById("querybutton");
+
+queryButton.addEventListener("click", function(){
+  computeAndReturn();
+  colorize();
+  
+}
+                            );
+
+
+// COMPUTER PROGRAM
+function computeAndReturn() {
+  var query = document.getElementById("query");
+  if(query.value.length > 0 && !isNaN(query.value) && query.value <= 17 ){ //if its truly a number
+  document.getElementById("result").innerHTML=query.value + "is too young";
+} else if(query.value.length > 0 && !isNaN(query.value) && query.value >= 17 ){ //if its truly a number
+  document.getElementById("result").innerHTML=query.value + "is ok";
+
+}
+  
+  else if (query.value.length > 0 && isNaN(query.value)) { //if its NaN though..
+  document.getElementById("result").innerHTML="numbers only are allowed";  
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+//switch statements page165
+level = 4
+
+switch(level) {
+  case 1:
+    msg = "jump onna di bricks";
+    break;
+    
+  case 2:
+    msg = "fish";
+    break;
+    
+  case 3:
+    msg = "laktu";
+    break;
+    
+  case 4:
+    msg = "bowser";
+    break;
+    
+  default:
+    msg = "welcome to zackn9ne"
+        break;
+
+}
+
+console.log(msg);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// do while loop 
+var i = 10;
+var msg = "searching..."
+
+do {
+  console.log(msg + "hacking wifi passwords: "+i);
+  i++;
+} while (i <= 100);
+```
+
 ```
 $( "button" ).on( "click", validate );
 
