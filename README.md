@@ -157,6 +157,8 @@ re: LAB 5: Intermediate JavaScript assignment – using comments
 # day 8 
 
 - form input and validation for prime/natural/etc/Nan
+- migrate the code out of codepen
+- get browsersync running: `browser-sync start --server --directory --files "*"`
 
 # day 9
 
@@ -417,9 +419,6 @@ function validate(){
 }
 ```
 
-- migrate the code out of codepen
-
-- get browsersync running: `browser-sync start --server --directory --files "*"`
 
 
 
