@@ -1,4 +1,13 @@
-# day one
+# Module 2 ReadMe File
+1. Search for "day x" with the `ctrl` + `f` key
+2. x is the day number of the class you need info on
+3. Search for "lab x" with the `ctrl` + `f` key
+4. x is the day number of the lab you need info on
+5. turn in your labs by adding them to your `module2` repo in `sub-folders` called `module2/lab1`, `module2/lab2`, etc and push your repo
+6. profit
+
+
+# day 1
 Module 2 MacBook Setup
 
 1. [brew homepage](http://brew.sh/)
@@ -60,11 +69,11 @@ Module 2 MacBook Setup
     └── app.js
 ```
 
-# day two
+# day 2
 - very basic HTML CSS review
 
 
-# day three
+# day 3
 - final review
 
 
@@ -92,7 +101,7 @@ Module 2 MacBook Setup
 
 
 
-# day four
+# day 4
 
 #video html5
 
@@ -110,7 +119,7 @@ Module 2 MacBook Setup
 ```
 
 
-# day five
+# day 5
 
 
 Motion
@@ -144,7 +153,7 @@ https://designshack.net/articles/css/12-fun-css-text-shadows-you-can-copy-and-pa
 https://uk.protectyourbubble.com/iphone-timeline/
 
 
-# day six
+# day 6
 
 - JavaScript refresher
 - Comments, Variables, Operators
