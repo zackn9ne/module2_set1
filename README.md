@@ -433,6 +433,11 @@ function validate(){
 
 # lab 1
 - Lab Info Coming Soon, will be posted before your lab session *dont panic*
+
+
+
+
+
 <!--- wedge
 
 
