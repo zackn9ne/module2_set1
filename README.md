@@ -435,6 +435,9 @@ function validate(){
 - draw a physical object using only html and css
 
 
+# lab 2
+- use what you learned from class 4 to embed a video on the Web page you made in lab 1. You can just embed the video below it. Use fallbacks.
+
 
 <!--- wedge
 
