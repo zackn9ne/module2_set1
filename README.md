@@ -438,6 +438,18 @@ function validate(){
 # lab 2
 - use what you learned from class 4 to embed a video on the Web page you made in lab 1. You can just embed the video below it. Use fallbacks.
 
+# lab 3
+- use `addEventListener` and `document.getEelementById` in a basic Web page and `js` to have it `console.log log something when you click on a div with an id of `trigger`
+
+# lab 4
+- use a `css 2d transform on an element` 
+- use a `css drop shadowon some BIG text
+- use a `css transition` on an element
+
+
+
+
+
 
 <!--- wedge
 
