@@ -446,6 +446,20 @@ function validate(){
 - use a `css drop shadowon some BIG text
 - use a `css transition` on an element
 
+# lab 5
+
+Intermediate JavaScript assignment – using comments 
+// write some javascript and include a comment somewhere in that code, can literally be anything that works without an error. wire it up to some HTML code if you like. include a `input` tag and a `button` if you like.
+
+# lab 6
+
+Intermediate JavaScript assignment – event and numbers 
+// write a function where you can put in a number and find out if it is even or odd, if you have spare time write this so it is wired up to a HTML `input` tag, but all I'm looking for is something you can copy paste in `chrome console` and play around with the value of x
+
+
+
+
+
 
 
 
