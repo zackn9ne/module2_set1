@@ -458,6 +458,23 @@ Intermediate JavaScript assignment – event and numbers
 
 
 
+# lab 7
+
+Intermediate JavaScript assignment – dates and date methods 
+// write a javascript function that spits out the date to the HTML page, either invoke that function with a button or just have it invoke automatically with page load
+
+
+
+# lab 8
+
+Intermediate JavaScript assignment – comparisons and conditions 
+// write a javascript conditional that prints out "old enough" if the age entered is over or equal to 18, and prints out "not old enough" if the age is less. if you have extra time on your hands put in error checking to not allow strings of text or numbers that are obviously not real like 0 and or -333.
+
+
+
+
+
+
 
 
 
