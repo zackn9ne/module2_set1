@@ -482,11 +482,20 @@ Write an array of types of cars  and loop through it. Render it to a HTML list.
 # lab 10
 Get your labs straight. 
 
-'''
+Get your lab repos straight are you kidding me?
+
+Put them in the right folders in your module 2 repo...
+
+aka
+
+```
 ../lab1
 ../lab2
 ../lab3
-'''
+```
+
+I dont care if labs arent complete or done yet, set up your folder structure and push what you have.
+
 
 
 
