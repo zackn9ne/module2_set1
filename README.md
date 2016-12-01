@@ -500,7 +500,7 @@ I dont care if labs arent complete or done yet, set up your folder structure and
 
 
 # lab  11
-- read this book up to chapter 1.3 where it says about doing the command `rails new hello_app`
+- read this book: https://www.railstutorial.org/book/beginning up to chapter 1.3 for this particular `lab 11` where it says about doing the command `rails new hello_app`
 - either use rails locally or
 - go to c9.io
 - sign up with your github
