@@ -523,3 +523,5 @@ $ rails server -b $IP -p $PORT
 ```
 
 - your site will be now running on port `:8080`
+- go to the `cloud9` `preview` menu and go down to `preview running application` it will reveal your rails site
+- thats it
