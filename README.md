@@ -499,213 +499,27 @@ I dont care if labs arent complete or done yet, set up your folder structure and
 
 
 
+# lab  11
+- read this book up to chapter 1.3 where it says about doing the command `rails new hello_app`
+- either use rails locally or
+- go to c9.io
+- sign up with your github
+- create a rails workspace
+- press `ruby -v` in the terminal panel
+- press `rails -v` in the terminal panel
+- run the command `rails new hello_app`
+- this will do for now
 
-
-<!--- wedge
-
-
-
-_day seven_
-
-# Setup Sublime Some More
-1. `npm install -g jshint`
-2. JSHint `https://packagecontrol.io/packages/JSHint`
-3. Package control `https://packagecontrol.io/installation#ST3`
-
-# JS Checking Principles
-- `console.log()`
-- `document.write()`
-- `alert()`
-
-# Do Some JS, Operators
-- `%` Modulous Operator
-- `===` vs `==`
-- Isralei video life michael `https://www.youtube.com/watch?v=n1-MCFsIwXQ`
-
-# Do Some Arrays
-- `https://www.youtube.com/watch?v=lP1uBtfssC0`
-
-# JS getElementBy _and crew_
-- `http://www.w3schools.com/jsref/prop_node_textcontent.asp`
-
-# Complex Arrays
-```
-// complex functions pg 95
-function size(w, h, d) {
-  var sqf = w * h;
-  var vol = w * h * d;
-  var chooseYourAdventure = [sqf, vol]
-  return chooseYourAdventure;
-}
-
-var sixFloorSqf = size(3,3)[0]  //[0]to get sqf 6f
-var sixFloorVol = size(3,3,553)[1]  //[1]to get vol 6f
-```
-# Anonymous function video
-- https://www.youtube.com/watch?v=LI-0ilvrvYk _(Indian)_
-
-# Homework
-- page 83 in the `JS Book`, do the `index.html` and the `app.js`
-- use `.length`
-- use an `anonymous function` as well for something I don't care what.
-- put a `JS Comment` somewhere in the `code`, use both the `//` style and the `block comment` called `/* comment this */` so that you can prove you know the ways
-
----
-
-_day eight_
-
-# Variable Scope
-- http://stackoverflow.com/questions/1470488/what-is-the-purpose-of-the-var-keyword-and-when-to-use-it-or-omit-it
+# lab 12
+- take a look at your `hello_app/Gemfile`
+- proceed reeding from 1.3 onto 1.5
+- Once you’ve placed the contents of Listing 1.5 into the application’s Gemfile, install the gems using `bundle install`
+- this may fail, if you read properly the error message you should `bundle update` first
+- do this:
 
 ```
-var foo = 1;
-bar = 2;
-
-var passwordHolder = function()
-{
-    var foo = "password123"; // Local
-    bar = "coco";     // Global
-
-    // Execute an anonymous function
-    (function()
-    {
-        var wibble = 1; // Local
-        var foo = 266; // Inherits from scope above (creating a closure)
-        moo = 300; // Global
-    }())
-}
-passwordHolder();
-alert(foo);
-alert(bar);
+$ cd ~/workspace/hello_app/
+$ rails server -b $IP -p $PORT
 ```
 
-# Awesome Closures Video
-- https://www.youtube.com/watch?v=yiEeiMN2Khs
-
-# HW
-- String Methods
-    - http://www.w3schools.com/js/js_string_methods.asp
-    - aka pg. 135
-
-- Write your *own* version of a **Event Listener** pg. 263, try to do 
-    - (1) without with `The Event Object` and 
-    - (2) one dealing with `The Event Object`, _hint_ think `variable e`
-
-- Number Methods
-    - aka pg. 132
-    - http://www.w3schools.com/js/js_number_methods.asp
-
----
-_day nine_
-
-# Bubbling v Capturing
-- Whats this `.addEventListener(type handler phase)` what does the `false` mean (in phase)?
-- `http://www.w3schools.com/js/js_htmldom_eventlistener.asp`
-- Default is Bubbling, it bubbles up from Child to Parent
-- Default is false
-- Swap it to `true` to use `Capturing` aka `useCapture` aka `true` to switch to `Capturing Mode`, meaning the `parent elemet` will harness the activity first
-
-- How to stop: event.stopPropagation() [MDN Link](https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation)
-
-# Hoisting
-- Awesome hoisting video: `https://m.youtube.com/watch?v=WqXeFiii9k0`
-- Function Expressions vs Functions
-    - `var myFunc = function() { /*do stuff...` vs `function myFunc() { /*do stuff...`
-    - the latter gets `hoisted` and will run fine, the former will return `not a func` most likely if called before it is used
-
-# HW Review of `addEventListener` _basic_
-- go here to study `http://www.w3schools.com/jsref/met_element_addeventlistener.asp`
-- click on `Try it yourself >>`
-- be comfortable changing things in there remember its `vanilla JS`
-
-```
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>This example uses the addEventListener() method to attach a click event to a button.</p>
-
-<button id="myBtn">Try it</button>
-
-<p><strong>Note:</strong> The addEventListener() method is not supported in Internet Explorer 8 and earlier versions.</p>
-
-<p id="demo"></p>
-
-<script>
-var doStuff = function(){
-    document.getElementById("demo").innerHTML = "Hello World";
-}
-document.getElementById("myBtn").addEventListener("click", doStuff, false );
-</script>
-
-</body>
-</html>
-
-```
-# HW Reveiw of `addEventListener` _advanced_
-```
-<!DOCTYPE html>
-<html>
-<body>
-
-<p id="foo">This example uses the addEventListener() method to attach a click event to a button.</p>
-
-<button id="myBtn">Try it</button>
-
-<script>
-var bt = document.getElementById("myBtn");
-var foo = document.getElementById("foo");
-
-function checkWhatClicked(e) {
-  var target = e.target; //get target of event
-//  foo.innerHTML = "eee";
-  foo.innerHTML = target;
-}
-
-function helloWorld(){
-    foo.innerHTML ="Hello World!";
-}
-
-bt.addEventListener("click", checkWhatClicked, false);
-</script>
-
-</body>
-</html>
-```
-
-# HW Assignment
-- `139` in the `JS Book`
-- What you're going to do is make a function that caluclates your current age in years.
-- If this was _super_ easy for you go ahead and do some differnt **variations** of it to show your `age` in `hours` or `seconds`
-- You may have to `Google` for these formulas
-- Remember how we talked about phrasing questions to google in the `correct context`
-
----
-_day ten_
-- Array Methods _tons of 'em_ `http://www.w3schools.com/jsref/jsref_obj_array.asp`
-- [sort filter video](https://egghead.io/lessons/javascript-javascript-array-methods-in-depth-filter)
-
-# overview
-- `objects`, `JSON API` Example `http://anilist-api.readthedocs.io/en/latest/anime.html#basic`
-- `JS forEach(); Method` Spec'ed from: `http://www.w3schools.com/jsref/jsref_forEach.asp`
-```
-var gangsterRap = [ "ice cube", "easy e", "dr. dre", "vanilla ice", "ice tea", "ice lattee" ]
-
-gangsterRap.forEach(function(singleRapper) {
-    document.write("<li>" + singleRapper + " is rad as hell a juicy *#$&#! from the middle of a cell</li>");
-});
-```
-- JS `filter();` Method, `bottom of page 537`
-
-- Recognize _all_ the `Array Methods` available to study `http://www.w3schools.com/jsref/jsref_obj_array.asp`
-- **pro tip** `JS Reserved Words` `http://www.w3schools.com/js/js_reserved.asp`, don't name your `variables` these or you will be confused
-
-# Homework
-- use JS `filter() method`
-- use `page 537` at the bottom
-- use the `.length` in order to set your filters just like _they_ did on `page 537` at the bottom
-    - they used `conditionals` here FYI such as `>=` and `<=` we _breezed_ over these in class but go ahead and study them if you don't get what is going on
-- learn as much as you can about the JS `filter() method`
-- put **your own** spin on this, I want to see interesting variables and not just junk copied from the book
-
--->
+- your site will be now running on port `:8080`
