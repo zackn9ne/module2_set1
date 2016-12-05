@@ -529,7 +529,7 @@ $ rails server -b $IP -p $PORT
 # day 11
 Intermediate JavaScript - Switch - Loop For, Loop While 
 
-A little random number randomness
+A little random number randomness:
 
 ```
 var clicker = document.getElementById('clicker');
