@@ -475,8 +475,13 @@ Intermediate JavaScript assignment – comparisons and conditions
 # lab 9 
 
 Loop For, Loop While
+
 LAB 9: Intermediate JavaScript assignment - looping
-Write an array of types of cars  and loop through it. Render it to a HTML list.
+
+Do this: 
+
+1. Write an array of types of cars  and loop through it. 
+2. Render it to a HTML list.
 
 
 # lab 10
