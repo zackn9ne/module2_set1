@@ -547,3 +547,5 @@ function randomer(){
   console.log(colors[selector]);
 }
 ```
+
+A little fun with a *faux store*: http://jsbin.com/zetorawuvi/edit?html,js,output
