@@ -554,3 +554,5 @@ function randomer(){
 ```
 
 A little fun with a *faux store*: http://jsbin.com/zetorawuvi/edit?html,js,output
+
+A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,output
