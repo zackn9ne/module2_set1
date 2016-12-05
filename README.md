@@ -528,3 +528,22 @@ $ rails server -b $IP -p $PORT
 
 # day 11
 Intermediate JavaScript - Switch - Loop For, Loop While 
+
+A little random number randomness
+
+```
+var clicker = document.getElementById('clicker');
+
+clicker.addEventListener('click', randomer, false);
+
+var colors = ['fuschia','red','molehair','leather','peruvian'];
+
+
+
+function randomer(){
+
+  var selector = Math.floor(Math.random() * colors.length);
+
+  console.log(colors[selector]);
+}
+```
