@@ -502,6 +502,10 @@ aka
 I dont care if labs arent complete or done yet, set up your folder structure and push what you have.
 
 
+# lab 11
+- Setup Ruby and Rails Locally: http://karloespiritu.com/replacing-rvm-with-rbenv-in-os-x/
+- Setup a http://c9.io account for coding ruby rails in the cloud
+
 
 
 # lab  11
