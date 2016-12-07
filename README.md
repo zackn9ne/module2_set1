@@ -567,3 +567,4 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 
 # day 13
 - https://www.railstutorial.org/book/modeling_users
+- clone this and see what it does https://github.com/thebucknerlife/gif_vault.git
