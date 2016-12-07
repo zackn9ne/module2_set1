@@ -564,3 +564,6 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 # day 12
 - http://karloespiritu.com/replacing-rvm-with-rbenv-in-os-x/
 - http://c9.io
+
+# day 13
+- https://www.railstutorial.org/book/modeling_users
