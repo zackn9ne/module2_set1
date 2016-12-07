@@ -566,5 +566,7 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - http://c9.io
 
 # day 13
-- https://www.railstutorial.org/book/modeling_users
+- see how hard it is to do this yourself? https://www.railstutorial.org/book/modeling_users
+- let's be civilised and use `bcrypt` and `has_secure_password`
 - clone this and see what it does https://github.com/thebucknerlife/gif_vault.git
+- if you are feeling brave you can use Thoughtbot's `Clearance` `gem` which we will look for a good example of
