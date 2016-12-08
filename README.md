@@ -573,4 +573,6 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 
 # day 14
 - `bundle install --without production`
+- lab is to follow the below two links to install clearance auth gem on a new rails app
+- https://github.com/thoughtbot/clearance
 - https://www.sitepoint.com/simple-rails-authentication-with-clearance/
