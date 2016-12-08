@@ -572,4 +572,4 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - if you are feeling brave you can use Thoughtbot's `Clearance` `gem` which we will look for a good example of
 
 # day 14
-- bundle install --without production
+- `bundle install --without production`
