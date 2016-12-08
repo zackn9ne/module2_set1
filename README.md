@@ -570,3 +570,6 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - let's be civilised and use `bcrypt` and `has_secure_password`
 - clone this and see what it does https://github.com/thebucknerlife/gif_vault.git
 - if you are feeling brave you can use Thoughtbot's `Clearance` `gem` which we will look for a good example of
+
+# day 14
+- bundle install --without production
