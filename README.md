@@ -573,3 +573,4 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 
 # day 14
 - `bundle install --without production`
+- https://www.sitepoint.com/simple-rails-authentication-with-clearance/
