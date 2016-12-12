@@ -576,3 +576,9 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - lab is to follow the below two links to install clearance auth gem on a new rails app
 - https://github.com/thoughtbot/clearance
 - https://www.sitepoint.com/simple-rails-authentication-with-clearance/
+
+# day 15
+- make a `rails new devise_lab`
+- https://github.com/plataformatec/devise
+- https://www.youtube.com/watch?v=qY5HccvIuS4
+- https://www.youtube.com/watch?v=3zvyeEYXT78
