@@ -582,3 +582,8 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - https://github.com/plataformatec/devise
 - https://www.youtube.com/watch?v=qY5HccvIuS4
 - https://www.youtube.com/watch?v=3zvyeEYXT78
+
+# day 16
+- you did a `rails model`
+- back half of this video is probably more important
+- https://www.youtube.com/watch?v=gTBCHu0btn8&t=194s
