@@ -587,3 +587,8 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - you did a `rails model`
 - back half of this video is probably more important
 - https://www.youtube.com/watch?v=gTBCHu0btn8&t=194s
+
+# day 17
+- brew cask install sqlitebrowser
+- https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm
+- http://guides.rubyonrails.org/v3.2/migrations.html

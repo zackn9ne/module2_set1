@@ -1,5 +1,8 @@
 $(function() {
     console.log("ready"); 
+/* in case you want to disable button state
+	$( "input" ).attr('disabled',true);
+*/
     
     var theFormDiv = $( "input" );
 
