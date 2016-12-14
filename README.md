@@ -597,3 +597,6 @@ databasey things via rails
 - `rails c`
 - `Modelname.column_names`
 - `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"`
+
+# day 18
+- 1NF explained brilliantly: https://www.lynda.com/Access-tutorials/First-normal-form/412845/438437-4.html
