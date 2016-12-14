@@ -592,3 +592,8 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 - brew cask install sqlitebrowser
 - https://www.tutorialspoint.com/ruby-on-rails/rails-migrations.htm
 - http://guides.rubyonrails.org/v3.2/migrations.html
+
+databasey things via rails
+- `rails c`
+- `Modelname.column_names`
+- `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"
