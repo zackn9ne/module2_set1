@@ -596,4 +596,4 @@ A little fun with *switchies*: http://jsbin.com/honanomecu/edit?html,js,console,
 databasey things via rails
 - `rails c`
 - `Modelname.column_names`
-- `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"
+- `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"`
