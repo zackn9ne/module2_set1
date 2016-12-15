@@ -600,3 +600,12 @@ databasey things via rails
 
 # day 18
 - 1NF explained brilliantly: https://www.lynda.com/Access-tutorials/First-normal-form/412845/438437-4.html
+
+`$ rails g model Person name:string age:integer title:string email:string`
+
+`ActiveRecord::Base.connection.tables`
+
+`ModelnameSingluar.column_names`
+
+- Note integer only holds four charachters
+
