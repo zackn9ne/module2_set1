@@ -609,3 +609,4 @@ databasey things via rails
 
 - Note integer only holds four charachters
 
+- bookmark this link for proper Rails Singular or Plural https://gist.github.com/zackn9ne/46caab9141dbe6e344ba9f51c8bdd119
