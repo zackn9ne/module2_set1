@@ -613,5 +613,9 @@ databasey things via rails
 
 - bookmark this link for proper Rails Singular or Plural https://gist.github.com/zackn9ne/46caab9141dbe6e344ba9f51c8bdd119
 
+# day 19
+- debugging your rails:db cheatsheet: Paste created: https://gist.github.com/a0d8f5a67b9e77a3b4e9f064d4d5f06e
+
+
 <a name="pookie"></a>
 
