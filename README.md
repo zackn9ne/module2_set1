@@ -619,6 +619,7 @@ databasey things via rails
 
 - HW read: https://www.railstutorial.org/book/filling_in_the_layout
 
+- HW try to do: 5.1.2
 
 
 <a name="pookie"></a>
