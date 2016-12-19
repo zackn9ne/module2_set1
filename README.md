@@ -621,6 +621,42 @@ databasey things via rails
 
 - HW try to do: 5.1.2
 
+# day 20
+
+- https://www.railstutorial.org/book/filling_in_the_layout
+
+* rails links syntax						      :rails:
+
+<%= link_to "About", about_path %>
+
+<%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+
+<%= link_to image_tag("rails.png", alt: "Rails logo") %>
+
+<%= image_tag("rails.png") %>
+
+* rails bootstrap procedure
+
+1. Add to Gemfile: gem 'bootstrap-sass', '3.3.6'
+2. $ bundle
+3. $ touch app/assets/stylesheets/custom.scss
+4. do css things to 3
+5. add this to top of 3
+
+```
+@import "bootstrap-sprockets";
+@import "bootstrap";
+```
+
+6. REBOOT Rails SERVER!!
+7. Add to application.js: //= require bootstrap-sprockets
+8. profit
+
+* this is to bring in Twitter Bootstrap and be able to use any of Bootstrap's built-in styles
+
+** if you don't want Bootstrap and only want to add a SCSS file to the asset pipeline, follow step 3 & 4 ONLY and no other steps are needed at all.
+
+
 
 <a name="pookie"></a>
 
