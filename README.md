@@ -626,11 +626,11 @@ databasey things via rails
 Bibliography
 - Textbook Source for this info: https://www.railstutorial.org/book/filling_in_the_layout
 
-Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+- Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
 
-Choose Bootstrap Components from: http://getbootstrap.com/components/
+- Choose Bootstrap Components from: http://getbootstrap.com/components/
 
-A video on how to use Bootstrap Components: https://www.youtube.com/watch?v=no-Ntkc836w
+- A video on how to use Bootstrap Components: https://www.youtube.com/watch?v=no-Ntkc836w
 
 How to Make a Link in Rails:
 
