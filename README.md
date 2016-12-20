@@ -674,3 +674,32 @@ databasey things via rails
 
 <a name="pookie"></a>
 
+# Day 21
+
+- rails troubleshooting
+- rails bootstrap review
+- rails css review
+
+# Day 22
+
+- Grading Overview
+
+40% ATT
+40% FIN
+20% MT
+
+physically late policy > 7m
+2LATES = 1PRESENT
+
+Late assignmet policy: For ever week late you lose 1 letter grade.
+
+- Midterm Assignment Due: friday 23rd of December
+
+1. Make a Rails App
+2. Use CSS
+3. Use an image or images in your rails app
+4. Make links, images and CSS "the rails way" (see #Day 20 there is tons of what you need in there)
+
+- On To The Lesson:
+
+- get prepaired for angular/Mongo/Express/Node: http://yeoman.io/codelab/setup.html
