@@ -621,32 +621,62 @@ databasey things via rails
 
 - HW try to do: 5.1.2
 
-# day 20
+# day 20 "The Rails Asset Pipeline"
 
-- https://www.railstutorial.org/book/filling_in_the_layout
+Textbook Source for this info: https://www.railstutorial.org/book/filling_in_the_layout
+Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
 
-* rails links syntax						      :rails:
+How to Make a Link in Rails:
 
-** src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+Step 1:
+- `$ rake routes`
 
+Step 2:
+- look at the `left hand` column and take the `route_name` and + `_path`
 
-** rails href
+Step 3:
+- add your choice of this code in any of your `.erb` templates:
 
+```
 <%= link_to "Home", root_path %>
 
 <%= link_to "About", about_path %>
 
 <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>  # nulled out link
 
-<%= link_to image_tag("rails.png", alt: "Rails logo"), root_path %>  # link with img and alt
-<%= link_to image_tag('logo.png'), root_path %> # link with an img
+```
+
+What about using an Image or linking an Image:
+
+Step 1:
+- `$ rake routes`
+
+Step 2:
+- look at the `left hand` column and take the `route_name` and + `_path`
+
+Step 3:
+- place your asset (image) in `your_rails_app/app/assets/images`
+
+Step 4: 
+- use the following most basic `erb syntax` to display your image:
+
+`<%= image_tag("rails.png") %>`
+
+Step 5:
+- do you want to click an image and have it take you to a link?
+- use the more complex syntax where the last `parameter` is the `rails_path` you choose
+
+`<%= link_to image_tag('logo.png'), root_path %> # link with an img`
+
+`<%= link_to image_tag("rails.png", alt: "Rails logo"), root_path %>  # link with img and alt`
 
 
-** rails img src
+How do I use an External `CSS` Stylesheet In Rails?
 
-<%= image_tag("rails.png") %>
+- `$ touch app/assets/stylesheets/custom.scss`
+- write your own `CSS` styles, note `SCSS syntax will also work` (forwards compatible)
 
-* rails bootstrap procedure
+How do I use an `TWBS` In Rails?
 
 1. Add to Gemfile: gem 'bootstrap-sass', '3.3.6'
 2. $ bundle
@@ -659,8 +689,8 @@ databasey things via rails
 @import "bootstrap";
 ```
 
-6. REBOOT Rails SERVER! (ctrl-c) && ($ rails s)
-7. Add the following line to the bottom of application.js (include the forward slashes, I know it looks weird): 
+6. REBOOT Rails SERVER! `$ (ctrl-c) && ($ rails s)`
+7. Add the following line to the bottom of `application.js` (include the forward slashes, I know it looks like comments but it's not): 
 
 ```
 //= require bootstrap-sprockets
@@ -672,34 +702,23 @@ databasey things via rails
 ** if you don't want Bootstrap and only want to add a SCSS file to the asset pipeline, follow step 3 & 4 ONLY and no other steps are needed at all.
 
 
-<a name="pookie"></a>
+
+
 
 # Day 21
 
 - rails troubleshooting
-- rails bootstrap review
-- rails css review
+To github.com:zackn9ne/module2_set1.git
+   a85e1c0..1e4df79  master -> master
 
-# Day 22
-
-- Grading Overview
-
-40% ATT
-40% FIN
-20% MT
-
-physically late policy > 7m
-2LATES = 1PRESENT
-
-Late assignmet policy: For ever week late you lose 1 letter grade.
-
-- Midterm Assignment Due: friday 23rd of December
-
-1. Make a Rails App
-2. Use CSS
-3. Use an image or images in your rails app
-4. Make links, images and CSS "the rails way" (see #Day 20 there is tons of what you need in there)
 
 - On To The Lesson:
 
 - get prepaired for angular/Mongo/Express/Node: http://yeoman.io/codelab/setup.html
+
+
+
+
+<a name="pookie"></a>
+
+
