@@ -649,32 +649,40 @@ Step 3:
 What about using an Image or linking an Image:
 
 Step 1:
-- `$ rake routes`
+
+`$ rake routes`
 
 Step 2:
-- look at the `left hand` column and take the `route_name` and + `_path`
+- look at the `left hand` column and use the following formula:
+
+`route_name` and + `_path`
 
 Step 3:
-- place your asset (image) in `your_rails_app/app/assets/images`
+download an image and place your asset (image) in
+
+`your_rails_app/app/assets/images`
 
 Step 4: 
-- use the following most basic `erb syntax` to display your image:
+use the following most basic `erb syntax` to display your image:
 
 `<%= image_tag("rails.png") %>`
 
 Step 5:
-- do you want to click an image and have it take you to a link?
-- use the more complex syntax where the last `parameter` is the `rails_path` you choose
+this is the equivelant of `<img src="/some/path/logo.png">`
 
-`<%= link_to image_tag('logo.png'), root_path %> # link with an img`
+```
+<%= link_to image_tag('logo.png'), root_path %> # link with an img
 
-`<%= link_to image_tag("rails.png", alt: "Rails logo"), root_path %>  # link with img and alt`
-
+<%= link_to image_tag("rails.png", alt: "Rails logo"), root_path %>  # link with img and alt`
+```
 
 How do I use an External `CSS` Stylesheet In Rails?
 
-- `$ touch app/assets/stylesheets/custom.scss`
-- write your own `CSS` styles, note `SCSS syntax will also work` (forwards compatible)
+`$ touch app/assets/stylesheets/custom.scss`
+
+- Write your own `CSS` styles in that file, save it and reload the web page.
+- How does this work? the prexisting code in the rails `application.html.erb` `<head>` section will already bring in your files.
+- What is `SCSS`? you can write standard `CSS` or `SCSS` either will render properly in this file.
 
 How do I use an `TWBS` In Rails?
 
