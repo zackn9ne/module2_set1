@@ -623,9 +623,10 @@ databasey things via rails
 
 # day 20 "The Rails Asset Pipeline"
 
-Textbook Source for this info: https://www.railstutorial.org/book/filling_in_the_layout
+Bibliography
+- Textbook Source for this info: https://www.railstutorial.org/book/filling_in_the_layout
 
-Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+- Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
 
 How to Make a Link in Rails:
 
