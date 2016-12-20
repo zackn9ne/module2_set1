@@ -629,13 +629,13 @@ Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.
 How to Make a Link in Rails:
 
 Step 1:
-- `$ rake routes`
+`$ rake routes`
 
 Step 2:
-- look at the `left hand` column and take the `route_name` and + `_path`
+look at the `left hand` column and take the `route_name` and + `_path`
 
 Step 3:
-- add your choice of this code in any of your `.erb` templates:
+add your choice of this code in any of your `.erb` templates:
 
 ```
 <%= link_to "Home", root_path %>
