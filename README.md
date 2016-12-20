@@ -728,6 +728,28 @@ How do I use an `TWBS` In Rails?
 - get prepaired for angular/Mongo/Express/Node: http://yeoman.io/codelab/setup.html
 
 
+# Day 22
+
+- Grading Overview
+- On To The Lesson:
+
+40% ATT
+40% FIN
+20% MT
+- get prepaired for angular/Mongo/Express/Node: http://yeoman.io/codelab/setup.html
+
+physically late policy > 7m
+2LATES = 1PRESENT
+
+Late assignmet policy: For ever week late you lose 1 letter grade.
+
+- Midterm Assignment Due: friday 23rd of December (via GitHub)
+
+1. Make a Rails App
+2. Use CSS
+3. Use an image or images in your rails app
+4. Make links, images and CSS "the rails way" (see #Day 20 there is tons of what you need in there)
+
 
 
 <a name="pookie"></a>
