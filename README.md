@@ -626,7 +626,9 @@ databasey things via rails
 Bibliography
 - Textbook Source for this info: https://www.railstutorial.org/book/filling_in_the_layout
 
-- Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+Additional src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+
+Choose Bootstrap componenets from: http://getbootstrap.com/components/
 
 How to Make a Link in Rails:
 
@@ -718,9 +720,6 @@ How do I use an `TWBS` In Rails?
 # Day 21
 
 - rails troubleshooting
-To github.com:zackn9ne/module2_set1.git
-   a85e1c0..1e4df79  master -> master
-
 
 - On To The Lesson:
 
