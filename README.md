@@ -627,11 +627,22 @@ databasey things via rails
 
 * rails links syntax						      :rails:
 
+** src: http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html
+
+
+** rails href
+
+<%= link_to "Home", root_path %>
+
 <%= link_to "About", about_path %>
 
-<%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+<%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>  # nulled out link
 
-<%= link_to image_tag("rails.png", alt: "Rails logo") %>
+<%= link_to image_tag("rails.png", alt: "Rails logo"), root_path %>  # link with img and alt
+<%= link_to image_tag('logo.png'), root_path %> # link with an img
+
+
+** rails img src
 
 <%= image_tag("rails.png") %>
 
@@ -640,22 +651,25 @@ databasey things via rails
 1. Add to Gemfile: gem 'bootstrap-sass', '3.3.6'
 2. $ bundle
 3. $ touch app/assets/stylesheets/custom.scss
-4. do css things to 3
-5. add this to top of 3
+4. write your own CSS styles to the mid section of (the file mentioned in) 3:
+5. add these two lines to the top of (the file mentioned in) 3:
 
 ```
 @import "bootstrap-sprockets";
 @import "bootstrap";
 ```
 
-6. REBOOT Rails SERVER!!
-7. Add to application.js: //= require bootstrap-sprockets
+6. REBOOT Rails SERVER! (ctrl-c) && ($ rails s)
+7. Add the following line to the bottom of application.js (include the forward slashes, I know it looks weird): 
+
+```
+//= require bootstrap-sprockets
+```
+
 8. profit
 
 * this is to bring in Twitter Bootstrap and be able to use any of Bootstrap's built-in styles
-
 ** if you don't want Bootstrap and only want to add a SCSS file to the asset pipeline, follow step 3 & 4 ONLY and no other steps are needed at all.
-
 
 
 <a name="pookie"></a>
