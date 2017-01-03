@@ -754,4 +754,27 @@ Late assignmet policy: For ever week late you lose 1 letter grade.
 
 <a name="pookie"></a>
 
+Tue Jan  3 13:49:09 EST 2017
 
+Rails cheatsheet below
+
+```
+* rails cheatsheet project workflow			   :rails:cheatsheet:
+1. $ rails g controller Songs
+2. $ rails g model Song name:string artist:string serialNumber:string
+2a. $ rails g model Person name:string age:integer title:string email:string 
+
+* how to make/verify your schema Rails DB from rails c 		      :rails:
+
+1. show all the tables with:
+ActiveRecord::Base.connection.tables
+
+2. show info on a sigle table
+ModelnameSingluar.column_names
+
+3. show all the info on that column
+ModelnameSingluar.all
+
+4. Create a sample data directly in $ rails c *Note integer only holds four charachters
+u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"
+```
