@@ -766,7 +766,7 @@ Rails cheatsheet below
 | Migration  | Plural   | rails g migration AddEmailToUsers email:string
 ```
 
-* rails cheatsheet project workflow		
+##### Rails Cheetsheet Project Workflow
 
 1. `$ rails g controller Songs`
 
@@ -774,7 +774,7 @@ Rails cheatsheet below
 
 2a. `$ rails g model Person name:string age:integer title:string email:string`
 
-* how to make/verify your schema Rails DB from rails c 		      :rails:
+##### Check Your DB (Schema) From Rails C
 
 1. show all the tables with:
 
