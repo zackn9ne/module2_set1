@@ -754,11 +754,11 @@ Late assignmet policy: For ever week late you lose 1 letter grade.
 
 <a name="pookie"></a>
 
-Tue Jan  3 13:49:09 EST 2017
+# Day 23 Tue Jan  3 13:49:09 EST 2017
 
 Rails cheatsheet below
 
-```
+
 * rails cheatsheet project workflow			   :rails:cheatsheet:
 1. $ rails g controller Songs
 2. $ rails g model Song name:string artist:string serialNumber:string
@@ -777,4 +777,3 @@ ModelnameSingluar.all
 
 4. Create a sample data directly in $ rails c *Note integer only holds four charachters
 u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"
-```
