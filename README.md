@@ -766,7 +766,7 @@ Rails cheatsheet below
 | Migration  | Plural   | rails g migration AddEmailToUsers email:string
 ```
 
-##### Rails Cheetsheet Project Workflow
+### Rails Cheetsheet Project Workflow
 
 1. `$ rails g controller Songs`
 
@@ -774,20 +774,12 @@ Rails cheatsheet below
 
 2a. `$ rails g model Person name:string age:integer title:string email:string`
 
-##### Check Your DB (Schema) From Rails C
+### Check Your DB (Schema) From Rails C
 
-1. show all the tables with:
+1. show all the tables with: `ActiveRecord::Base.connection.tables`
 
-`ActiveRecord::Base.connection.tables`
+2. show info on a sigle table: `ModelnameSingluar.column_names`
 
-2. show info on a sigle table
+3. show all the info on that column: `ModelnameSingluar.all`
 
-`ModelnameSingluar.column_names`
-
-3. show all the info on that column
-
-`ModelnameSingluar.all`
-
-4. Create a sample data directly in $ rails c *Note integer only holds four charachters
-
-`u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"`
+4. Create a sample data directly in `$ rails c` *Note integer only holds four charachters: `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"`
