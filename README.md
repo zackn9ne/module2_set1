@@ -783,3 +783,11 @@ Rails cheatsheet below
 3. show all the info on that column: `ModelnameSingluar.all`
 
 4. Create a sample data directly in `$ rails c` *Note integer only holds four charachters: `u = Model.create :field => "string", :field2 => "string", :field3 => integer, :field4 => "sometext"`
+
+# Day 31 Tue Jan 17 21:10:49 EST 2017
+
+- trials and tribulations of webpack.js
+
+- homework/ongoing investigation of webpack.js: https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
+
+- try above link yourself XD
