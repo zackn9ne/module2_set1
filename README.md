@@ -791,3 +791,11 @@ Rails cheatsheet below
 - homework/ongoing investigation of webpack.js: https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
 
 - try above link yourself XD
+
+# Day 32 Wed Jan 18 13:09:24 EST 2017
+
+- THE FINAL
+
+- skim the following tutorial, substituting "Judo Heroes" for something YOU are interested in (the tutorial here): https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
+
+- set your version of `athletes.js` with a set of things you like such as `candy, shoes, access-a-ride client trips, tv shows` do it based on the following link: https://github.com/lmammino/judo-heroes/blob/master/src/data/athletes.js
