@@ -799,3 +799,5 @@ Rails cheatsheet below
 - skim the following tutorial, substituting "Judo Heroes" for something YOU are interested in (the tutorial here): https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 
 - set your version of `athletes.js` with a set of things you like such as `candy, shoes, access-a-ride client trips, tv shows` do it based on the following link: https://github.com/lmammino/judo-heroes/blob/master/src/data/athletes.js
+
+- _it would be best if you start putting together your data ASAP aka `thestuffyoulike.js`_
